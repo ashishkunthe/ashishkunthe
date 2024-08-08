@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishkunthe
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me on instagram:@ashish_kunthe20
+- 📫 Reach me on instagram:@ashish_kunthe20
 - 😄 Pronouns: he/him
