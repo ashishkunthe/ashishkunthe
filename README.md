@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ashishkunthe<br>👀 I’m interested in web development<br>🧾 React.js,Next.js,React Native<br>😄 Pronouns: he/him
+👋 Hi, I’m @ashishkunthe<br>👀I enjoy building and exploring software solutions.<br>🧾 React.js,Next.js,React Native<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
